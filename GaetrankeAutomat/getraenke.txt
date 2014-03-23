@@ -1,0 +1,11 @@
+Wasser; 1.29; 3.0
+Wasser; 1.29; 3.0
+Fanta; 1.89; 4.0
+Tee; 0.99; 7.0
+Kaffe; 2.99; 8.0
+Apfelsaft; 2.29; 2.0
+Sekt; 3.99; 1.0
+Wodka; 4.99; 5.0
+Bier; 2.99; 4.0
+kakao; 1.56; 4.0
+Sekt; 3.99; 1.0
